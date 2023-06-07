@@ -1,1 +1,1 @@
-package org.example;public class Book {}
+package org.example;public class Book {    private String name;}
